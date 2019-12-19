@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+    color: #a5a5a1;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 480px;
+    margin: 0 auto;
+}
+.title h1{
+    text-align: center;
+    font-size: 18px;
+    color: #d33;
+    padding: 20px 0;
+    background-color: #f6f6f6;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.container .block{
+    float: left;
+    width: 150px;
+    margin: 5px;
+    padding: 10px 0;
+}
+.container .icon-font{
+    margin-right: 20px;
+}

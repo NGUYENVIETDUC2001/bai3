@@ -1,0 +1,15 @@
+.list-tab a{
+
+}
+.list-tab a.active{
+    color: red;
+}
+.content-group li{
+    display: none;
+}
+.content-group li.active{
+    display: block;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
